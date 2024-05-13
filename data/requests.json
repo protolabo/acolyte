@@ -1,0 +1,79 @@
+{
+    "requests": [
+      {
+        "uuid": "936da01f-9a7d-4d9b-80e2-5f7b545c8951",
+        "title": "Teach me Python",
+        "typeOfService": "Computer Science Classes",
+        "buddyType": "Scholar Buddy",
+        "location": "Online",
+        "availability": "Weekday evenings",
+        "budget": 25,
+        "autoType":"",
+        "skillLevel": "Beginner",
+        "educationLevel": "University",
+        "student": "Ethan Kim",
+        "username": "codecrusher2000",
+        "subjectDetails": "Lorem Ipsum",
+        "active": true,
+        "DateCreation": 1715231476,
+        "DateUpdate": 1715231476
+      },
+      {
+        "uuid": "3411f0a8-5c1c-49c2-af4f-234567890abc",
+        "username": "frenchlover88",
+        "student": "Sophia Patel",
+        "active": true,
+        "DateCreation": 1715231476,
+        "DateUpdate": 1715231476,
+        "title": "Let's practice French",
+        "typeOfService": "Languages Classes",
+        "buddyType": "Scholar Buddy",
+        "location": "Online",
+        "budget": 25,
+        "availability": "Weekends",
+        "autoType":"",
+        "subjectDetails": "Lorem Ipsum",
+        "educationLevel": "University",
+        "skillLevel": "Intermediate"
+
+      },
+      {
+        "uuid": "617a3f6e-7b4a-46c5-9f3e-1234567890ab",
+        "username": "sciencenerd22",
+        "student": "Raj Shah",
+        "active": true,
+        "DateCreation": 1715231476,
+        "DateUpdate": 1715231476,
+        "title": "Need help with Organic Chemistry",
+        "typeOfService": "Biology Classes",
+        "buddyType": "Scholar Buddy",
+        "location": "Montreal, QC",
+        "budget": 30,
+        "availability": "Tuesday and Thursday mornings",
+        "autoType":"",
+        "subjectDetails": "Organic Chemistry",
+        "educationLevel": "University",
+        "skillLevel": "Intermediate"
+
+      },
+      {
+        "uuid": "85f1432b-8a5d-4f6b-9c7d-345678901abc",
+        "username": "drivingdreams",
+        "student": "Lily Chen",
+        "active": true,
+        "DateCreation": 1715231476,
+        "DateUpdate": 1715231476,
+        "title": "Prepare me for License Exam",
+        "typeOfService": "Driving Lessons",
+        "buddyType": "Driving Buddy",
+        "location": "Brossard, QC",
+        "budget": 20,
+        "availability": "Flexible",
+        "autoType": "Automatic",
+        "subjectDetails": "Organic Chemistry",
+        "educationLevel": "University",
+        "skillLevel": "Beginner"
+      }
+    ]
+  }
+  

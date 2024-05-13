@@ -1,0 +1,11 @@
+{
+    "name": "Simo",
+    "lastName": "Test",
+    "username": "testUser",
+    "city": "Montreal, QC",
+    "age": "26",
+    "email": "simo.test@example.com",
+    "phoneNumber": "123-456-7890",
+    "userId": "001",
+    "verifiedStatus": "Active"
+  }  
