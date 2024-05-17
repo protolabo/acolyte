@@ -1,31 +1,34 @@
-# 📅 Suivi
+**Rapport de Progression du Acolyte**
 
-### Semaines 15 (2024-04-25)
+---
 
-### Semaine 14 (2024-04-18)
+### Janvier 2024: Lancement et Planification
 
-### Semaine 13 (2024-04-11)
+- **8-21 Janvier**: La phase initiale du projet a commencé avec du brainstorming sur la mission de l'application.
 
-### Semaine 12 (2024-04-04)
+### Fin Janvier à Début Février: Conception et Prototypage Initial
 
-### Semaine 11 (2024-03-28)
+- **22 Janvier - 4 Février**: La transition vers la phase de prototypage a été initiée avec le développement d'un prototype papier. Afin de modéliser les différents éléments d'interfaces potentiels. 
 
-### Semaine 10 (2024-03-21)
+### Mi-Février: Développement et Conception Approfondis
 
-### Semaine 9 (2024-03-14)
+- **5-18 Février**: L'accent a été mis sur le prototypage avancé en utilisant Figma, accompagné par la conception de l'interface utilisateur. Parallèlement, Du brainstorming dédiée au backend, au système de BDD à implémenter a été fait avec des recherches orientées sur Google Firebase.
 
-### Semaine 8 (2024-03-07)
+### Fin Février à Mi-Mars: Peaufinage et Développement Complémentaire
 
-### Semaine 7 (2024-02-29)
+- **19 Février - 15 Mars**: Cette période a été marquée par le peaufinage final du prototype Figma, ainsi que par la mise en place d'interfaces annexes. L'objectif était de finaliser les aspects visuels et d'interaction du projet avant de commencer la phase de programmation.
 
-### Semaine 6 (2024-02-22)
+### Mi-Mars: Lancement de la Programmation
 
-### Semaine 5 (2024-02-15)
+- **15-25 Mars**: La programmation du projet a officiellement commencé. On commence la transition du concept vers le développement concret et la mise en œuvre des fonctionnalités définies au cours des phases précédentes. L'objectif est d'afficher l'interface de base sur laquelle tous les modules annexes s'implémenteront.
 
-### Semaine 4 (2024-02-08)
+### Avril : Finalisation de l'interface
 
-### Semaine 3 (2024-02-01)
+- **26 Mars au 25 Avril** : La programmation fut fortement ralentie et arrêtée par la condition médicale de @Herbrax. Le développement à repris le 26 Avril.
 
-### Semaine 2 (2024-01-25)
+- **26 Avril - 10 Mai** : Finalisation de l'interface, totalement fonctionnelle avec un système de pages désormais. 
 
-### Semaine 1 (2024-01-18)
+### Mai : Base de données & Backend
+
+- **10 Mai au 27 Mai** : L'objectif est de finir l'application durant ce créneau, la seule tache restante est de faire fonctionner le backend correctement. Quelques problèmes sont rencontrés au niveau de Firebase Storage et de FIrebase Auth ; en cours de résolution.
+---

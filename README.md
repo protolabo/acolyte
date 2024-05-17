@@ -10,14 +10,25 @@ Il est souvent bénéfique et parfois nécessaire d'avoir recours à des séance
 
 ## 📋 Fonctionnalités
 
+L'application est destinée à deux types d'utilisateurs : 
+
+- Ceux qui offrent un service. Ils auront à leurs disposition la possibilité de publier leurs offre ou de communiquer avec les utilisateurs en recherche de service
+
+- Ceux qui recherchent un service. Qui auront la possibilité de publier leur annonce ou de communiquer avec les utilisateurs offrant un service.
+
+Tout ceci se fait avec le système de notification / chat de l'application qui notifie un utilisateur qu'un autre souhaite prendre contact avec lui par rapport à son annonce "X". 
+
 ## 👥 Roles
+
+Louis Edouard Lafontant - Supervision et Direction
+Simo Hakim - Conception et Développement
 
 ## 📅 Échéancier
 
 Le projet se découpe en plusieurs phases. La phase 1 commence à l'hiver 2024 et se concentre sur le prototypage de l'application.
 
 > Début: 18 janvier 2024  
-> Fin: 25 avril 2024
+> Fin: 25 avril 2024 - échéancier repoussé pour raisons médicales
 
 Le suivi du projet est présenté dans le fichier [**TIMELINE**](TIMELINE.md).
 
@@ -26,10 +37,7 @@ Le suivi du projet est présenté dans le fichier [**TIMELINE**](TIMELINE.md).
 
 ### 🗄️ Backend
 
-- [**Firebase**](https://firebase.google.com/): Firebase est une plateforme développée par Google fournissant des services facilitant le développement d'application: Base de données, Authentification, Hébergement.
-<!-- 
-- JS: Fastify ou Express 
-- Python: FastAPI ou Flask -->
+- [**Firebase**](https://firebase.google.com/): Firebase est une plateforme développée par Google fournissant des services facilitant le développement d'application: Base de données, Authentification, Hébergement. 
 
 ### 📱 Application
 
